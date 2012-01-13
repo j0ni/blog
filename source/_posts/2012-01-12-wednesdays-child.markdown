@@ -3,6 +3,7 @@ layout: post
 title: "Wednesday's child"
 date: 2012-01-12 00:57
 comments: true
+sharing: false
 categories: 
 ---
 

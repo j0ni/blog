@@ -3,6 +3,7 @@ layout: post
 title: "Ancestral Home"
 date: 2012-01-13 01:34
 comments: true
+sharing: false
 categories: 
 ---
 
