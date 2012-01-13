@@ -3,6 +3,7 @@ layout: post
 title: "Awake"
 date: 2012-01-11 02:35
 comments: true
+sharing: false
 categories: 
 ---
 

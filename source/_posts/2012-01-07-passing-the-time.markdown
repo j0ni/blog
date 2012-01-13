@@ -3,6 +3,7 @@ layout: post
 title: "Passing the time"
 date: 2012-01-07 03:24
 comments: true
+sharing: false
 categories: 
 ---
 

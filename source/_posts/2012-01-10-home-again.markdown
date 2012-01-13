@@ -3,6 +3,7 @@ layout: post
 title: "Home again"
 date: 2012-01-10 01:24
 comments: true
+sharing: false
 categories: 
 ---
 
