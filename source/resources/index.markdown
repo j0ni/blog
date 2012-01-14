@@ -15,3 +15,7 @@ Some potentially useful resources.
 ## [Cross Roads Care](http://www.crossroads.org.uk/index.php)
 
 > In Leeds we can provide: Short, regular breaks; Enhanced services for complex needs; Night Service; Palliative Care Service; Parent Carer Service;
+
+## [Methodist Homes Association](http://www.mha.org.uk/HomePage.aspx)
+
+> MHA is a charity providing care, accommodation and support services for older people throughout Britain.  We are the largest charitable care provider in the sector and amongst the largest charities in Britain, providing services to older people for nearly 70 years.
