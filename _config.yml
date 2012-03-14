@@ -2,7 +2,7 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://blog.j0ni.ca
+url: http://j0ni.ca/diazepam
 title: Diazepam Dreams
 subtitle: goodnight sweet prince...
 author: Jonathan Irving
@@ -27,7 +27,7 @@ email:
 # ----------------------- #
 
 # If publishing to a subdirectory as in http://site.com/project set 'root: /project'
-root: /
+root: /diazepam
 permalink: /blog/:year/:month/:day/:title/
 source: source
 destination: public
