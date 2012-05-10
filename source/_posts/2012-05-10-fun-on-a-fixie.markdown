@@ -3,6 +3,7 @@ layout: post
 title: "Fun on a Fixie"
 date: 2012-05-10 16:11
 comments: false
+sharing: false
 categories: 
 ---
 
